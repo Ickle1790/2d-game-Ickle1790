@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: e49766cc0d63f8d47b3f9ab0cc2f2d07
+guid: d0235b91dc3577d44bb3728b16f5c275
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -187,7 +187,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: improved_sand_and_bridges_0
+      name: 3rd sand and bridges_0
       rect:
         serializedVersion: 2
         x: 0
@@ -200,16 +200,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6f77b73a3b21f20c0800000000000000
-      internalID: -4598436131770763274
+      spriteID: 719fabdd83d01b84db966136fd8a0c4b
+      internalID: 1221440285
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: improved_sand_and_bridges_1
+      name: 3rd sand and bridges_1
       rect:
         serializedVersion: 2
         x: 16
@@ -222,16 +222,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3d50b1f89ebe28310800000000000000
-      internalID: 1405945422053836243
+      spriteID: 8569590c7ab18304899dccb8c0f45448
+      internalID: 124873795
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: improved_sand_and_bridges_2
+      name: 3rd sand and bridges_2
       rect:
         serializedVersion: 2
         x: 32
@@ -244,16 +244,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 631923e7527ec01a0800000000000000
-      internalID: -6841839585665576650
+      spriteID: f0c4d4609538f034ca8c35545711a6cf
+      internalID: 607471763
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: improved_sand_and_bridges_3
+      name: 3rd sand and bridges_3
       rect:
         serializedVersion: 2
         x: 64
@@ -266,16 +266,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 220fd1c65cd914030800000000000000
-      internalID: 3477233858554753058
+      spriteID: 94f96b1036999bb469a7b199308090cc
+      internalID: -69672405
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: improved_sand_and_bridges_4
+      name: 3rd sand and bridges_4
       rect:
         serializedVersion: 2
         x: 80
@@ -290,14 +290,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 80d9cd9c8b82b934ca653041f8012970
-      internalID: -1667037565
+      spriteID: e65b39b343caf9340aadb600600bf1d7
+      internalID: -1404982572
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: improved_sand_and_bridges_5
+      name: 3rd sand and bridges_5
       rect:
         serializedVersion: 2
         x: 96
@@ -312,14 +312,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c62201ad5dd028d499f464134f83e2fb
-      internalID: -703464728
+      spriteID: 2c2d587829bddb543b2497a74f71844b
+      internalID: 353184811
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: improved_sand_and_bridges_6
+      name: 3rd sand and bridges_6
       rect:
         serializedVersion: 2
         x: 160
@@ -334,14 +334,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9612fc0f9a2244f4e8b47fefc2514f95
-      internalID: 1914262518
+      spriteID: 47a48f0d740c98b45a875e4c9b8771a8
+      internalID: -1262514109
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: improved_sand_and_bridges_7
+      name: 3rd sand and bridges_7
       rect:
         serializedVersion: 2
         x: 176
@@ -356,14 +356,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ecf8c168e36c4904eb5d25ad8fc108d4
-      internalID: 1681358054
+      spriteID: a15bdb573e431c445845fa4b1f5ff405
+      internalID: 13268585
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: improved_sand_and_bridges_8
+      name: 3rd sand and bridges_8
       rect:
         serializedVersion: 2
         x: 192
@@ -378,14 +378,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 88c5e6a561ed35c4eba82e7b204f5fad
-      internalID: -583910534
+      spriteID: 769bf5779eb51504781c9b20db97a6bd
+      internalID: -713590028
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: improved_sand_and_bridges_9
+      name: 3rd sand and bridges_9
       rect:
         serializedVersion: 2
         x: 0
@@ -400,14 +400,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 10d56a1a0f0611f49bb92ef933a4370b
-      internalID: 40695507
+      spriteID: 42aed3ac1a7e52e4d83985dcdb57593b
+      internalID: 2015730545
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: improved_sand_and_bridges_10
+      name: 3rd sand and bridges_10
       rect:
         serializedVersion: 2
         x: 16
@@ -422,14 +422,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aa25a86740964b940ad65941f98e81fa
-      internalID: 1708305385
+      spriteID: 02ea60e1f07af8e49b704d425a15a199
+      internalID: -1698100297
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: improved_sand_and_bridges_11
+      name: 3rd sand and bridges_11
       rect:
         serializedVersion: 2
         x: 32
@@ -444,14 +444,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a143fcb236162be4a981e94c0f2054f5
-      internalID: 1691466059
+      spriteID: 7b117245a23f6474695a9d7651bafeee
+      internalID: 421076906
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: improved_sand_and_bridges_12
+      name: 3rd sand and bridges_12
       rect:
         serializedVersion: 2
         x: 64
@@ -466,14 +466,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 929419b3aee811c47ab838d5d43629fa
-      internalID: -2090944503
+      spriteID: e953a17b4d6677b418635324c7898eb9
+      internalID: 326910419
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: improved_sand_and_bridges_13
+      name: 3rd sand and bridges_13
       rect:
         serializedVersion: 2
         x: 80
@@ -488,14 +488,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7bbe7bdb1a5abb94299a3fef64c925cc
-      internalID: -952281482
+      spriteID: e54907236506f284cb120520eb151bc8
+      internalID: -1462830270
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: improved_sand_and_bridges_14
+      name: 3rd sand and bridges_14
       rect:
         serializedVersion: 2
         x: 160
@@ -510,14 +510,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e823868156960f048a8fc15dce42080c
-      internalID: -1998550017
+      spriteID: e05eb0d0c42374548aace554486178b6
+      internalID: -1669916714
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: improved_sand_and_bridges_15
+      name: 3rd sand and bridges_15
       rect:
         serializedVersion: 2
         x: 176
@@ -532,14 +532,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 42e72e75e5fb5804eb8e25b3a730598e
-      internalID: 1176189174
+      spriteID: 5f8c0a18daef72046b1fd3d9a9b9346f
+      internalID: -1720746552
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: improved_sand_and_bridges_16
+      name: 3rd sand and bridges_16
       rect:
         serializedVersion: 2
         x: 192
@@ -554,14 +554,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 16a07a3c073aca04098a6fe7394e7a75
-      internalID: -1298322106
+      spriteID: 2c6ed78e4712e564a995a34327fa5694
+      internalID: -1800885842
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: improved_sand_and_bridges_17
+      name: 3rd sand and bridges_17
       rect:
         serializedVersion: 2
         x: 0
@@ -576,14 +576,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 55007c5567afb2c44920cacc3bab62e7
-      internalID: 2099656592
+      spriteID: f0216ebe1f7d33e45b2b21e46eb3032c
+      internalID: 1641763797
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: improved_sand_and_bridges_18
+      name: 3rd sand and bridges_18
       rect:
         serializedVersion: 2
         x: 16
@@ -598,14 +598,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bc541df9188d6f649bd52187a2c4ad48
-      internalID: -2133296983
+      spriteID: 4c33b26635dac2247aaa51aad1b594a7
+      internalID: 1368946353
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: improved_sand_and_bridges_19
+      name: 3rd sand and bridges_19
       rect:
         serializedVersion: 2
         x: 32
@@ -620,14 +620,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8ca44d749b20a084b862d6d9ec5c604b
-      internalID: -1883149168
+      spriteID: e5513be05e5880444992f589471833cb
+      internalID: 1523711555
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: improved_sand_and_bridges_20
+      name: 3rd sand and bridges_20
       rect:
         serializedVersion: 2
         x: 128
@@ -642,14 +642,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: caaf5782b18cd2b43bfbb59bc8fdc2b1
-      internalID: -1078351068
+      spriteID: c5d82757f14f26b4d9fdeb1ef41444aa
+      internalID: -1985701939
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: improved_sand_and_bridges_21
+      name: 3rd sand and bridges_21
       rect:
         serializedVersion: 2
         x: 144
@@ -664,14 +664,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4b9b40315ce7467479e3e27c68a5e659
-      internalID: 1037811636
+      spriteID: 335446963c2f9b64a8a08234fc78f514
+      internalID: -204282055
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: improved_sand_and_bridges_22
+      name: 3rd sand and bridges_22
       rect:
         serializedVersion: 2
         x: 160
@@ -686,14 +686,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d110ee1b592710b498669571d0b6b0e2
-      internalID: 1494294780
+      spriteID: 2150b0dc26673884b83a60070af19a63
+      internalID: -37217497
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: improved_sand_and_bridges_23
+      name: 3rd sand and bridges_23
       rect:
         serializedVersion: 2
         x: 176
@@ -708,14 +708,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cf193b2a24b289b46a90ea080e8a5106
-      internalID: 1705451696
+      spriteID: b88a45cbef44e4a42ba795fe3cdbefe2
+      internalID: -1176896512
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: improved_sand_and_bridges_24
+      name: 3rd sand and bridges_24
       rect:
         serializedVersion: 2
         x: 192
@@ -730,14 +730,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0343897471a6bfe46ab2e150e1168b79
-      internalID: -946592281
+      spriteID: 9b74be0e3d448ae41a5a7413e628f3b1
+      internalID: -1458559107
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: improved_sand_and_bridges_25
+      name: 3rd sand and bridges_25
       rect:
         serializedVersion: 2
         x: 0
@@ -752,14 +752,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fb188757257e1d441bf46eb2c8c5c058
-      internalID: -131808096
+      spriteID: d5502c412b0343a4dbf3963de533cdff
+      internalID: -1963507756
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: improved_sand_and_bridges_26
+      name: 3rd sand and bridges_26
       rect:
         serializedVersion: 2
         x: 16
@@ -774,14 +774,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dd3dcae72e015f046980a78dfeba315a
-      internalID: -1745477222
+      spriteID: c83de43d23d57f04698590404699ae99
+      internalID: 1847814308
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: improved_sand_and_bridges_27
+      name: 3rd sand and bridges_27
       rect:
         serializedVersion: 2
         x: 32
@@ -796,14 +796,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d0b407002fb59384181f8617fe6289ce
-      internalID: 388982377
+      spriteID: e33f067f38efae24eaf976d60457e8b2
+      internalID: -1622844221
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: improved_sand_and_bridges_28
+      name: 3rd sand and bridges_28
       rect:
         serializedVersion: 2
         x: 128
@@ -818,14 +818,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3e5fa74de605a924aac6955be4192aa2
-      internalID: -1251460419
+      spriteID: 2a2d91a2a91208d42858703ce482dd7a
+      internalID: -1702709132
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: improved_sand_and_bridges_29
+      name: 3rd sand and bridges_29
       rect:
         serializedVersion: 2
         x: 144
@@ -840,14 +840,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fdecaa353ec69a847a498d6f48d39d53
-      internalID: -779439121
+      spriteID: 00005b0c43e69344b8635908bd67aa5e
+      internalID: 1521987128
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: improved_sand_and_bridges_30
+      name: 3rd sand and bridges_30
       rect:
         serializedVersion: 2
         x: 160
@@ -862,14 +862,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c9779eb5df7bdad4a8d418c326281882
-      internalID: 368976649
+      spriteID: 416ed06fe88410346836901db97ba60b
+      internalID: 121898799
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: improved_sand_and_bridges_31
+      name: 3rd sand and bridges_31
       rect:
         serializedVersion: 2
         x: 176
@@ -884,14 +884,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fa3d74b959469a449be2a825f83a9cdd
-      internalID: -1850189292
+      spriteID: 918d582609d99b448a77935ef2295f87
+      internalID: 1604970122
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: improved_sand_and_bridges_32
+      name: 3rd sand and bridges_32
       rect:
         serializedVersion: 2
         x: 192
@@ -906,14 +906,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 97aee0eb3e3f39d46bfdb4ad7942832f
-      internalID: 1661283151
+      spriteID: 78452790afe21ca4fb9a0e16a110f317
+      internalID: 1640184304
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: improved_sand_and_bridges_33
+      name: 3rd sand and bridges_33
       rect:
         serializedVersion: 2
         x: 128
@@ -928,14 +928,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3f53fde4116ef184e9faaa8a5e296c24
-      internalID: 137311925
+      spriteID: e3b5ead97d023b149a45614366c1232e
+      internalID: 223221602
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: improved_sand_and_bridges_34
+      name: 3rd sand and bridges_34
       rect:
         serializedVersion: 2
         x: 144
@@ -950,14 +950,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 38544ba3813dd3b44ae97ca8c41a8fbb
-      internalID: -1505975065
+      spriteID: 3af2b073dc0309a419e795717a35a36a
+      internalID: 798567120
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: improved_sand_and_bridges_35
+      name: 3rd sand and bridges_35
       rect:
         serializedVersion: 2
         x: 160
@@ -972,14 +972,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7982a0b0d24aae4419033871a1cdb721
-      internalID: 1042782409
+      spriteID: 5f77449f1de90a64a99607a56232521e
+      internalID: 1195834068
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: improved_sand_and_bridges_36
+      name: 3rd sand and bridges_36
       rect:
         serializedVersion: 2
         x: 176
@@ -994,14 +994,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 17cdec7cfad10c741b6820084b319bf6
-      internalID: -1505672661
+      spriteID: 5c493c33dda6bad4b8f84e533736f80a
+      internalID: 266481928
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: improved_sand_and_bridges_37
+      name: 3rd sand and bridges_37
       rect:
         serializedVersion: 2
         x: 192
@@ -1016,14 +1016,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 94598a6e6ec3b0841a16abf538cdf773
-      internalID: 1268307997
+      spriteID: cbed5b0910faf704e8a324375d5f1b98
+      internalID: 490869678
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: improved_sand_and_bridges_38
+      name: 3rd sand and bridges_38
       rect:
         serializedVersion: 2
         x: 160
@@ -1038,14 +1038,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6fafc99577781c1489762f06e5fd4912
-      internalID: -1991168937
+      spriteID: d4171aca08e1e314da53d87338a40104
+      internalID: -1819808741
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: improved_sand_and_bridges_39
+      name: 3rd sand and bridges_39
       rect:
         serializedVersion: 2
         x: 176
@@ -1060,14 +1060,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7f5b8bfe9535efe4bbd8ec77af8ebe54
-      internalID: 1813743399
+      spriteID: 221efb5b507459149a6e3e73dc53976a
+      internalID: 2051140383
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: improved_sand_and_bridges_40
+      name: 3rd sand and bridges_40
       rect:
         serializedVersion: 2
         x: 192
@@ -1082,14 +1082,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6a26f0b8827ae524d9924a75b7f0117c
-      internalID: 572593420
+      spriteID: 961d6a578b583e6478d1ca4fae1ef21c
+      internalID: -557823012
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: improved_sand_and_bridges_41
+      name: 3rd sand and bridges_41
       rect:
         serializedVersion: 2
         x: 160
@@ -1104,14 +1104,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 027836297751bcf48a5dccf611820ac5
-      internalID: -1331404426
+      spriteID: 6c364e26ba51b024daad8d09f31482fc
+      internalID: -669348637
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: improved_sand_and_bridges_42
+      name: 3rd sand and bridges_42
       rect:
         serializedVersion: 2
         x: 176
@@ -1126,14 +1126,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d1fa723958d44084598f8a3b6a31b05e
-      internalID: -396142301
+      spriteID: 1deae621ae5ea0a42bcb1f467bee2834
+      internalID: -914163118
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: improved_sand_and_bridges_43
+      name: 3rd sand and bridges_43
       rect:
         serializedVersion: 2
         x: 192
@@ -1148,8 +1148,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1d01148146222ea498b1ab0423a6d6ea
-      internalID: -745122802
+      spriteID: ae269bbaae2cf424ab7464f3263f173e
+      internalID: 1808149960
       vertices: []
       indices: 
       edges: []
@@ -1158,7 +1158,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 7babe764a19928341906500b2b730a47
+    spriteID: bb61c3707fb53d64cb12854ad2a39214
     internalID: 0
     vertices: []
     indices: 
@@ -1170,50 +1170,50 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      improved_sand_and_bridges_0: -4598436131770763274
-      improved_sand_and_bridges_1: 1405945422053836243
-      improved_sand_and_bridges_10: 1708305385
-      improved_sand_and_bridges_11: 1691466059
-      improved_sand_and_bridges_12: -2090944503
-      improved_sand_and_bridges_13: -952281482
-      improved_sand_and_bridges_14: -1998550017
-      improved_sand_and_bridges_15: 1176189174
-      improved_sand_and_bridges_16: -1298322106
-      improved_sand_and_bridges_17: 2099656592
-      improved_sand_and_bridges_18: -2133296983
-      improved_sand_and_bridges_19: -1883149168
-      improved_sand_and_bridges_2: -6841839585665576650
-      improved_sand_and_bridges_20: -1078351068
-      improved_sand_and_bridges_21: 1037811636
-      improved_sand_and_bridges_22: 1494294780
-      improved_sand_and_bridges_23: 1705451696
-      improved_sand_and_bridges_24: -946592281
-      improved_sand_and_bridges_25: -131808096
-      improved_sand_and_bridges_26: -1745477222
-      improved_sand_and_bridges_27: 388982377
-      improved_sand_and_bridges_28: -1251460419
-      improved_sand_and_bridges_29: -779439121
-      improved_sand_and_bridges_3: 3477233858554753058
-      improved_sand_and_bridges_30: 368976649
-      improved_sand_and_bridges_31: -1850189292
-      improved_sand_and_bridges_32: 1661283151
-      improved_sand_and_bridges_33: 137311925
-      improved_sand_and_bridges_34: -1505975065
-      improved_sand_and_bridges_35: 1042782409
-      improved_sand_and_bridges_36: -1505672661
-      improved_sand_and_bridges_37: 1268307997
-      improved_sand_and_bridges_38: -1991168937
-      improved_sand_and_bridges_39: 1813743399
-      improved_sand_and_bridges_4: -1667037565
-      improved_sand_and_bridges_40: 572593420
-      improved_sand_and_bridges_41: -1331404426
-      improved_sand_and_bridges_42: -396142301
-      improved_sand_and_bridges_43: -745122802
-      improved_sand_and_bridges_5: -703464728
-      improved_sand_and_bridges_6: 1914262518
-      improved_sand_and_bridges_7: 1681358054
-      improved_sand_and_bridges_8: -583910534
-      improved_sand_and_bridges_9: 40695507
+      3rd sand and bridges_0: 1221440285
+      3rd sand and bridges_1: 124873795
+      3rd sand and bridges_10: -1698100297
+      3rd sand and bridges_11: 421076906
+      3rd sand and bridges_12: 326910419
+      3rd sand and bridges_13: -1462830270
+      3rd sand and bridges_14: -1669916714
+      3rd sand and bridges_15: -1720746552
+      3rd sand and bridges_16: -1800885842
+      3rd sand and bridges_17: 1641763797
+      3rd sand and bridges_18: 1368946353
+      3rd sand and bridges_19: 1523711555
+      3rd sand and bridges_2: 607471763
+      3rd sand and bridges_20: -1985701939
+      3rd sand and bridges_21: -204282055
+      3rd sand and bridges_22: -37217497
+      3rd sand and bridges_23: -1176896512
+      3rd sand and bridges_24: -1458559107
+      3rd sand and bridges_25: -1963507756
+      3rd sand and bridges_26: 1847814308
+      3rd sand and bridges_27: -1622844221
+      3rd sand and bridges_28: -1702709132
+      3rd sand and bridges_29: 1521987128
+      3rd sand and bridges_3: -69672405
+      3rd sand and bridges_30: 121898799
+      3rd sand and bridges_31: 1604970122
+      3rd sand and bridges_32: 1640184304
+      3rd sand and bridges_33: 223221602
+      3rd sand and bridges_34: 798567120
+      3rd sand and bridges_35: 1195834068
+      3rd sand and bridges_36: 266481928
+      3rd sand and bridges_37: 490869678
+      3rd sand and bridges_38: -1819808741
+      3rd sand and bridges_39: 2051140383
+      3rd sand and bridges_4: -1404982572
+      3rd sand and bridges_40: -557823012
+      3rd sand and bridges_41: -669348637
+      3rd sand and bridges_42: -914163118
+      3rd sand and bridges_43: 1808149960
+      3rd sand and bridges_5: 353184811
+      3rd sand and bridges_6: -1262514109
+      3rd sand and bridges_7: 13268585
+      3rd sand and bridges_8: -713590028
+      3rd sand and bridges_9: 2015730545
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
