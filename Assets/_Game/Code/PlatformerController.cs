@@ -17,6 +17,7 @@ public class PlatformerController : MonoBehaviour
     private bool isGrounded;
     private float moveInput;
     private float xPosLastFrame;
+    private bool isFacingRight;
 
     void Start()
     {
@@ -30,7 +31,6 @@ public class PlatformerController : MonoBehaviour
     
     void Update()
     {
-        FlipCharacterX();
 
 
         // Get horizontal input
@@ -53,23 +53,21 @@ public class PlatformerController : MonoBehaviour
         }
     }
     
-    private void FlipCharacterX()
+    private void Flip()
     {
-        if (transform.position.x > xPosLastFrame){
-            // We are moving right
-            spriteRenderer.flipX = false;
+        if(isFacingRight && moveInput > 0f || !isFacingRight && moveInput < 0f)
+        {
+            isFacingRight = !isFacingRight;
+            Vector3 localScale = transform.localScale;
+            localScale.x *= -1f;
+            transform.localScale = localScale;
         }
-        else if (transform.position.x < xPosLastFrame){
-            // We are moving left
-            spriteRenderer.flipX = true;
-        }
-
-        xPosLastFrame = transform.position.x;
     }
     
 
     void FixedUpdate()
     {
+        Flip();
         // Apply horizontal movement
         rb.linearVelocity = new Vector2(moveInput * moveSpeed, rb.linearVelocity.y);
     }
