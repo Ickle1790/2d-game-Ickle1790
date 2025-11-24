@@ -100638,7 +100638,7 @@ GameObject:
   - component: {fileID: 1261214405}
   - component: {fileID: 1261214404}
   m_Layer: 0
-  m_Name: Teleport Box_0
+  m_Name: Teleport Box
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
