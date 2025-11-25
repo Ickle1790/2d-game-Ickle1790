@@ -412,7 +412,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Teleport Box-Sheet_0: -4682123806044702049
+      Teleport Box-Sheet_1: 1587352477237484120
+      Teleport Box-Sheet_2: -5764348035400510856
+      Teleport Box-Sheet_3: 5670181667746179181
+      Teleport Box-Sheet_4: 8442881173283293701
+      Teleport Box-Sheet_5: -3098277285753727274
+      Teleport Box-Sheet_6: -5747318223952226876
+      Teleport Box-Sheet_7: -477251907052366602
+      Teleport Box-Sheet_8: 3678277985888749773
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

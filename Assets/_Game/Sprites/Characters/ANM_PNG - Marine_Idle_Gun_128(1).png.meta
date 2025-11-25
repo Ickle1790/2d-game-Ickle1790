@@ -212,7 +212,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ANM_PNG - Marine_Idle_Gun_128(1)_0: 2159212134765326826
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

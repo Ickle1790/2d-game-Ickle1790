@@ -537,7 +537,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tentacle Attack Animation-Sheet_0: 485238917893335930
+      Tentacle Attack Animation-Sheet_1: 1417104322667511427
+      Tentacle Attack Animation-Sheet_10: 5961909136326554122
+      Tentacle Attack Animation-Sheet_11: -7267982509627895038
+      Tentacle Attack Animation-Sheet_12: 3725311422298335941
+      Tentacle Attack Animation-Sheet_13: 4819349364106565603
+      Tentacle Attack Animation-Sheet_2: 991956850406838410
+      Tentacle Attack Animation-Sheet_3: 8005376365932811050
+      Tentacle Attack Animation-Sheet_4: 8327885699306990101
+      Tentacle Attack Animation-Sheet_5: 4791988924850606272
+      Tentacle Attack Animation-Sheet_6: 5291421552446399178
+      Tentacle Attack Animation-Sheet_7: 2996406125796304294
+      Tentacle Attack Animation-Sheet_8: -781460822026481280
+      Tentacle Attack Animation-Sheet_9: 6426340174721810825
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

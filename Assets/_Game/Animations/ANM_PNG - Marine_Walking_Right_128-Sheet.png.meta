@@ -287,7 +287,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ANM_PNG - Marine_Walking_Right_128-Sheet_0: -245654840117696840
+      ANM_PNG - Marine_Walking_Right_128-Sheet_1: 6212205513262586074
+      ANM_PNG - Marine_Walking_Right_128-Sheet_2: -7938572176493931733
+      ANM_PNG - Marine_Walking_Right_128-Sheet_3: -8417806709344337706
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

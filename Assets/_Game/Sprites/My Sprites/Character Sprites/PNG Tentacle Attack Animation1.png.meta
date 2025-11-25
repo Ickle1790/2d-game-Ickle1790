@@ -212,7 +212,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PNG Tentacle Attack Animation1_0: -5286084248499449184
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

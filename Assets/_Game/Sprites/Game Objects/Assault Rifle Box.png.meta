@@ -212,7 +212,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Assault Rifle Box_0: -2633253089307886912
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

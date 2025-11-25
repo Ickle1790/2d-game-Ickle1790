@@ -287,7 +287,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ANM_PNG - Marine_Walking_Gun_128-Sheet_0: 5368910078119226370
+      ANM_PNG - Marine_Walking_Gun_128-Sheet_1: 734802603757034105
+      ANM_PNG - Marine_Walking_Gun_128-Sheet_2: 4914665342019586067
+      ANM_PNG - Marine_Walking_Gun_128-Sheet_3: -4477154067238763165
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
