@@ -38114,7 +38114,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -7.75, y: -2.41, z: -10}
+  m_LocalPosition: {x: 141.39597, y: -8.455192, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -100958,6 +100958,7 @@ GameObject:
   - component: {fileID: 1261214405}
   - component: {fileID: 1261214404}
   - component: {fileID: 1261214406}
+  - component: {fileID: 1261214407}
   m_Layer: 0
   m_Name: Teleport Box
   m_TagString: LevelExit
@@ -101081,6 +101082,28 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.96, y: 0.96}
   m_EdgeRadius: 0
+--- !u!95 &1261214407
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1261214403}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: a3132cd77dbb1d4439261a5969f4eb8e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &1261491055
 GameObject:
   m_ObjectHideFlags: 0
@@ -102034,7 +102057,7 @@ Transform:
   m_GameObject: {fileID: 1517497286}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 142.5687, y: -8.3966, z: 0}
+  m_LocalPosition: {x: 140.75, y: -7.62, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
