@@ -1,0 +1,2517 @@
+fileFormatVersion: 2
+guid: ec4145b99d6c9004482ca4a7a516a2b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6381537413789095254
+    second: Sand Platform Animation-sheet_0
+  - first:
+      213: -7028345701823307343
+    second: Sand Platform Animation-sheet_1
+  - first:
+      213: -1958162510355861938
+    second: Sand Platform Animation-sheet_2
+  - first:
+      213: 9193894165110513481
+    second: Sand Platform Animation-sheet_3
+  - first:
+      213: 4217008871445940230
+    second: Sand Platform Animation-sheet_4
+  - first:
+      213: -6165536743607657643
+    second: Sand Platform Animation-sheet_5
+  - first:
+      213: -9100090668043890688
+    second: Sand Platform Animation-sheet_6
+  - first:
+      213: 4443639342428768268
+    second: Sand Platform Animation-sheet_7
+  - first:
+      213: -2710128920953024405
+    second: Sand Platform Animation-sheet_8
+  - first:
+      213: -3463945852583207646
+    second: Sand Platform Animation-sheet_9
+  - first:
+      213: -6709444131356276534
+    second: Sand Platform Animation-sheet_10
+  - first:
+      213: 333648400970947772
+    second: Sand Platform Animation-sheet_11
+  - first:
+      213: 2559986165827461339
+    second: Sand Platform Animation-sheet_12
+  - first:
+      213: -378499495674825924
+    second: Sand Platform Animation-sheet_13
+  - first:
+      213: -4486967184652319858
+    second: Sand Platform Animation-sheet_14
+  - first:
+      213: 638581099400863689
+    second: Sand Platform Animation-sheet_15
+  - first:
+      213: -6032440715960485363
+    second: Sand Platform Animation-sheet_16
+  - first:
+      213: -5944815983885775873
+    second: Sand Platform Animation-sheet_17
+  - first:
+      213: 6170483857418917560
+    second: Sand Platform Animation-sheet_18
+  - first:
+      213: 7761596854776013335
+    second: Sand Platform Animation-sheet_19
+  - first:
+      213: -1699289262324348008
+    second: Sand Platform Animation-sheet_20
+  - first:
+      213: 765671763030002470
+    second: Sand Platform Animation-sheet_21
+  - first:
+      213: 5673671393313218992
+    second: Sand Platform Animation-sheet_22
+  - first:
+      213: -5992686977908573644
+    second: Sand Platform Animation-sheet_23
+  - first:
+      213: -758995220182802167
+    second: Sand Platform Animation-sheet_24
+  - first:
+      213: 3078403700145715442
+    second: Sand Platform Animation-sheet_25
+  - first:
+      213: -1059105416707377614
+    second: Sand Platform Animation-sheet_26
+  - first:
+      213: 4310678389376614357
+    second: Sand Platform Animation-sheet_27
+  - first:
+      213: 1747905370334445544
+    second: Sand Platform Animation-sheet_28
+  - first:
+      213: -1524703833683661845
+    second: Sand Platform Animation-sheet_29
+  - first:
+      213: -6095450783782231662
+    second: Sand Platform Animation-sheet_30
+  - first:
+      213: -715118069001606193
+    second: Sand Platform Animation-sheet_31
+  - first:
+      213: -6352883619659076396
+    second: Sand Platform Animation-sheet_32
+  - first:
+      213: -1147242555337142583
+    second: Sand Platform Animation-sheet_33
+  - first:
+      213: -5324997691542647904
+    second: Sand Platform Animation-sheet_34
+  - first:
+      213: -1005741221592067058
+    second: Sand Platform Animation-sheet_35
+  - first:
+      213: -7422310339476859948
+    second: Sand Platform Animation-sheet_36
+  - first:
+      213: -6927558883950433059
+    second: Sand Platform Animation-sheet_37
+  - first:
+      213: 8535813457147040103
+    second: Sand Platform Animation-sheet_38
+  - first:
+      213: 3652848368168824650
+    second: Sand Platform Animation-sheet_39
+  - first:
+      213: -5796581740452237210
+    second: Sand Platform Animation-sheet_40
+  - first:
+      213: -3168963701341401757
+    second: Sand Platform Animation-sheet_41
+  - first:
+      213: -932029728066628451
+    second: Sand Platform Animation-sheet_42
+  - first:
+      213: -5129989348452700115
+    second: Sand Platform Animation-sheet_43
+  - first:
+      213: 209636773057364771
+    second: Sand Platform Animation-sheet_44
+  - first:
+      213: 2849115396859977902
+    second: Sand Platform Animation-sheet_45
+  - first:
+      213: -8209969098672898948
+    second: Sand Platform Animation-sheet_46
+  - first:
+      213: 2662267120042378913
+    second: Sand Platform Animation-sheet_47
+  - first:
+      213: 717948409628204855
+    second: Sand Platform Animation-sheet_48
+  - first:
+      213: 7749080481913496018
+    second: Sand Platform Animation-sheet_49
+  - first:
+      213: 3266256792674979820
+    second: Sand Platform Animation-sheet_50
+  - first:
+      213: -3759349212793606096
+    second: Sand Platform Animation-sheet_51
+  - first:
+      213: -4858341373626154810
+    second: Sand Platform Animation-sheet_52
+  - first:
+      213: -4360610411764874625
+    second: Sand Platform Animation-sheet_53
+  - first:
+      213: -4270698287852771533
+    second: Sand Platform Animation-sheet_54
+  - first:
+      213: -4910274098371420907
+    second: Sand Platform Animation-sheet_55
+  - first:
+      213: 6895395990619657462
+    second: Sand Platform Animation-sheet_56
+  - first:
+      213: 2910287571806478757
+    second: Sand Platform Animation-sheet_57
+  - first:
+      213: -8061019852031358344
+    second: Sand Platform Animation-sheet_58
+  - first:
+      213: -5362639246737374877
+    second: Sand Platform Animation-sheet_59
+  - first:
+      213: 6788410353922752364
+    second: Sand Platform Animation-sheet_60
+  - first:
+      213: -2680524610604313927
+    second: Sand Platform Animation-sheet_61
+  - first:
+      213: 6117353089261054134
+    second: Sand Platform Animation-sheet_62
+  - first:
+      213: 2355542913859419669
+    second: Sand Platform Animation-sheet_63
+  - first:
+      213: -8480051865128487560
+    second: Sand Platform Animation-sheet_64
+  - first:
+      213: 8253700092157269840
+    second: Sand Platform Animation-sheet_65
+  - first:
+      213: -8774414555963952900
+    second: Sand Platform Animation-sheet_66
+  - first:
+      213: 3313429019574998373
+    second: Sand Platform Animation-sheet_67
+  - first:
+      213: -9078118379462779201
+    second: Sand Platform Animation-sheet_68
+  - first:
+      213: -8508850386032784915
+    second: Sand Platform Animation-sheet_69
+  - first:
+      213: -919256504390864513
+    second: Sand Platform Animation-sheet_70
+  - first:
+      213: -1846355953394237484
+    second: Sand Platform Animation-sheet_71
+  - first:
+      213: 976037987006710488
+    second: Sand Platform Animation-sheet_72
+  - first:
+      213: -6263534719651820266
+    second: Sand Platform Animation-sheet_73
+  - first:
+      213: 7512816262487719955
+    second: Sand Platform Animation-sheet_74
+  - first:
+      213: 5202345803607078634
+    second: Sand Platform Animation-sheet_75
+  - first:
+      213: -6080141573051847640
+    second: Sand Platform Animation-sheet_76
+  - first:
+      213: 6754155245971306459
+    second: Sand Platform Animation-sheet_77
+  - first:
+      213: 3024063103518920727
+    second: Sand Platform Animation-sheet_78
+  - first:
+      213: -804737620499693101
+    second: Sand Platform Animation-sheet_79
+  - first:
+      213: 7655351233783183716
+    second: Sand Platform Animation-sheet_80
+  - first:
+      213: -5592201947732830479
+    second: Sand Platform Animation-sheet_81
+  - first:
+      213: 4830974978576044366
+    second: Sand Platform Animation-sheet_82
+  - first:
+      213: 509412797322676061
+    second: Sand Platform Animation-sheet_83
+  - first:
+      213: -4260457734948944046
+    second: Sand Platform Animation-sheet_84
+  - first:
+      213: -7796224182066085258
+    second: Sand Platform Animation-sheet_85
+  - first:
+      213: -6575464405283822970
+    second: Sand Platform Animation-sheet_86
+  - first:
+      213: 337042245837643093
+    second: Sand Platform Animation-sheet_87
+  - first:
+      213: -4885244507869929771
+    second: Sand Platform Animation-sheet_88
+  - first:
+      213: 532708166057772932
+    second: Sand Platform Animation-sheet_89
+  - first:
+      213: 7224550606048717687
+    second: Sand Platform Animation-sheet_90
+  - first:
+      213: -3905831677923521537
+    second: Sand Platform Animation-sheet_91
+  - first:
+      213: 443035384001026636
+    second: Sand Platform Animation-sheet_92
+  - first:
+      213: 6838855361980153775
+    second: Sand Platform Animation-sheet_93
+  - first:
+      213: -2336564052629435817
+    second: Sand Platform Animation-sheet_94
+  - first:
+      213: -2832051809113330689
+    second: Sand Platform Animation-sheet_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 45
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa6c3278893077a0800000000000000
+      internalID: -6381537413789095254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 46
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1ad2c62dc467e90800000000000000
+      internalID: -7028345701823307343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 47
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e60c5529533d4e0800000000000000
+      internalID: -1958162510355861938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 48
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94fd2f52806479f70800000000000000
+      internalID: 9193894165110513481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 49
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608c435d933d58a30800000000000000
+      internalID: 4217008871445940230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 50
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b95a38ffc9f6aa0800000000000000
+      internalID: -6165536743607657643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 51
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000956370cbf5b180800000000000000
+      internalID: -9100090668043890688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 52
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08ca63407afaad30800000000000000
+      internalID: 4443639342428768268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 53
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b601513fa10b36ad0800000000000000
+      internalID: -2710128920953024405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 54
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d179f89979defc0800000000000000
+      internalID: -3463945852583207646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 55
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac80e265c1443e2a0800000000000000
+      internalID: -6709444131356276534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 56
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc10c3f37b51a400800000000000000
+      internalID: 333648400970947772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 57
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd06f0cbad5e68320800000000000000
+      internalID: 2559986165827461339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 58
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3333acc6bc4fbaf0800000000000000
+      internalID: -378499495674825924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 59
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83c6f75e171bb1c0800000000000000
+      internalID: -4486967184652319858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 60
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf11166022bcd800800000000000000
+      internalID: 638581099400863689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 61
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a729c4127784ca0800000000000000
+      internalID: -6032440715960485363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 62
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb8c611c55cf7da0800000000000000
+      internalID: -5944815983885775873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 63
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b69cbd2066f1a550800000000000000
+      internalID: 6170483857418917560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 62
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712a6ba773bb6bb60800000000000000
+      internalID: 7761596854776013335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 2527
+        y: 61
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b858c4b69ea68e0800000000000000
+      internalID: -1699289262324348008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 2623
+        y: 60
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b43f9696630aa00800000000000000
+      internalID: 765671763030002470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 59
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1eab2621eecbe40800000000000000
+      internalID: 5673671393313218992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2815
+        y: 58
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a76a7b1f2b5dca0800000000000000
+      internalID: -5992686977908573644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 2911
+        y: 57
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901e8ca5ed18775f0800000000000000
+      internalID: -758995220182802167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 3007
+        y: 56
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8fe6eeadfa8ba20800000000000000
+      internalID: 3078403700145715442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 55
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236f6712c3d4d41f0800000000000000
+      internalID: -1059105416707377614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 3199
+        y: 54
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dffebbf72b92db30800000000000000
+      internalID: 4310678389376614357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 3295
+        y: 53
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef38cb6caec14810800000000000000
+      internalID: 1747905370334445544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 3391
+        y: 52
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bebeb9501f927dae0800000000000000
+      internalID: -1524703833683661845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 3487
+        y: 51
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291a8c6aecb986ba0800000000000000
+      internalID: -6095450783782231662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_31
+      rect:
+        serializedVersion: 2
+        x: 3583
+        y: 50
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb22b4b7e36316f0800000000000000
+      internalID: -715118069001606193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_32
+      rect:
+        serializedVersion: 2
+        x: 3679
+        y: 49
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dca2d6c10606d7a0800000000000000
+      internalID: -6352883619659076396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_33
+      rect:
+        serializedVersion: 2
+        x: 3775
+        y: 48
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce0be969fc2410f0800000000000000
+      internalID: -1147242555337142583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_34
+      rect:
+        serializedVersion: 2
+        x: 3871
+        y: 47
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab43d500dec916b0800000000000000
+      internalID: -5324997691542647904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_35
+      rect:
+        serializedVersion: 2
+        x: 3967
+        y: 46
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04990700b3ea02f0800000000000000
+      internalID: -1005741221592067058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_36
+      rect:
+        serializedVersion: 2
+        x: 4063
+        y: 45
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3d5c24218aef890800000000000000
+      internalID: -7422310339476859948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_37
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 39
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc688916ed5cdf90800000000000000
+      internalID: -6927558883950433059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_38
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 40
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7619f365d1d457670800000000000000
+      internalID: 8535813457147040103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_39
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 41
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f611bbc3681b230800000000000000
+      internalID: 3652848368168824650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_40
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 42
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66034d06e976e8fa0800000000000000
+      internalID: -5796581740452237210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_41
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 43
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d4073bd449504d0800000000000000
+      internalID: -3168963701341401757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_42
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 44
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d941c7286e3c013f0800000000000000
+      internalID: -932029728066628451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_43
+      rect:
+        serializedVersion: 2
+        x: 4159
+        y: 44
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2070ff0edd9ec8b0800000000000000
+      internalID: -5129989348452700115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_44
+      rect:
+        serializedVersion: 2
+        x: 4255
+        y: 43
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32381fdc887c8e200800000000000000
+      internalID: 209636773057364771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_45
+      rect:
+        serializedVersion: 2
+        x: 4351
+        y: 42
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea06fe1bb571a8720800000000000000
+      internalID: 2849115396859977902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_46
+      rect:
+        serializedVersion: 2
+        x: 4447
+        y: 41
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7cfaa06a94501e80800000000000000
+      internalID: -8209969098672898948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_47
+      rect:
+        serializedVersion: 2
+        x: 4543
+        y: 40
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6045327d542f420800000000000000
+      internalID: 2662267120042378913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_48
+      rect:
+        serializedVersion: 2
+        x: 4639
+        y: 39
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f12f2564aa6f900800000000000000
+      internalID: 717948409628204855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_49
+      rect:
+        serializedVersion: 2
+        x: 4735
+        y: 38
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1ed5454a34a8b60800000000000000
+      internalID: 7749080481913496018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_50
+      rect:
+        serializedVersion: 2
+        x: 4831
+        y: 37
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef49906f33145d20800000000000000
+      internalID: 3266256792674979820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_51
+      rect:
+        serializedVersion: 2
+        x: 4927
+        y: 36
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030fac01fcb14dbc0800000000000000
+      internalID: -3759349212793606096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_52
+      rect:
+        serializedVersion: 2
+        x: 5023
+        y: 35
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c00e63e244b39cb0800000000000000
+      internalID: -4858341373626154810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_53
+      rect:
+        serializedVersion: 2
+        x: 5119
+        y: 34
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7282ea1feffb73c0800000000000000
+      internalID: -4360610411764874625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_54
+      rect:
+        serializedVersion: 2
+        x: 5215
+        y: 33
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337aaa9c88e6bb4c0800000000000000
+      internalID: -4270698287852771533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_55
+      rect:
+        serializedVersion: 2
+        x: 5311
+        y: 32
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d15c829b33bdbb0800000000000000
+      internalID: -4910274098371420907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_56
+      rect:
+        serializedVersion: 2
+        x: 5407
+        y: 31
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4998ebe1e51bf50800000000000000
+      internalID: 6895395990619657462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_57
+      rect:
+        serializedVersion: 2
+        x: 5503
+        y: 30
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a162cf802b636820800000000000000
+      internalID: 2910287571806478757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_58
+      rect:
+        serializedVersion: 2
+        x: 5599
+        y: 29
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a8c485721812090800000000000000
+      internalID: -8061019852031358344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_59
+      rect:
+        serializedVersion: 2
+        x: 5695
+        y: 28
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36186af74041495b0800000000000000
+      internalID: -5362639246737374877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_60
+      rect:
+        serializedVersion: 2
+        x: 5791
+        y: 27
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f36271047453e50800000000000000
+      internalID: 6788410353922752364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_61
+      rect:
+        serializedVersion: 2
+        x: 5887
+        y: 26
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2dc35911ddccad0800000000000000
+      internalID: -2680524610604313927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_62
+      rect:
+        serializedVersion: 2
+        x: 7999
+        y: 26
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b82b0b393435e450800000000000000
+      internalID: 6117353089261054134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_63
+      rect:
+        serializedVersion: 2
+        x: 8095
+        y: 27
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e77c9ccc190b020800000000000000
+      internalID: 2355542913859419669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_64
+      rect:
+        serializedVersion: 2
+        x: 8191
+        y: 28
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875b02602cdc05a80800000000000000
+      internalID: -8480051865128487560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_65
+      rect:
+        serializedVersion: 2
+        x: 8287
+        y: 29
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05794abf0880b8270800000000000000
+      internalID: 8253700092157269840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_66
+      rect:
+        serializedVersion: 2
+        x: 8383
+        y: 30
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf070cf33740b3680800000000000000
+      internalID: -8774414555963952900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_67
+      rect:
+        serializedVersion: 2
+        x: 8479
+        y: 31
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5651d34532aabfd20800000000000000
+      internalID: 3313429019574998373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_68
+      rect:
+        serializedVersion: 2
+        x: 8575
+        y: 32
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe1d2b8e6b040280800000000000000
+      internalID: -9078118379462779201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_69
+      rect:
+        serializedVersion: 2
+        x: 8671
+        y: 33
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9029dd7ad7ae980800000000000000
+      internalID: -8508850386032784915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_70
+      rect:
+        serializedVersion: 2
+        x: 8767
+        y: 34
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71b05664152e33f0800000000000000
+      internalID: -919256504390864513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_71
+      rect:
+        serializedVersion: 2
+        x: 8863
+        y: 35
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df3205fa0d6066e0800000000000000
+      internalID: -1846355953394237484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_72
+      rect:
+        serializedVersion: 2
+        x: 8959
+        y: 36
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d282deb0659b8d00800000000000000
+      internalID: 976037987006710488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_73
+      rect:
+        serializedVersion: 2
+        x: 9055
+        y: 38
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61dc3dcab547319a0800000000000000
+      internalID: -6263534719651820266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_74
+      rect:
+        serializedVersion: 2
+        x: 9151
+        y: 39
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310cb5c0692e24860800000000000000
+      internalID: 7512816262487719955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_75
+      rect:
+        serializedVersion: 2
+        x: 5983
+        y: 25
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae67eb6f1f1723840800000000000000
+      internalID: 5202345803607078634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_76
+      rect:
+        serializedVersion: 2
+        x: 6079
+        y: 24
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ce82a047ffe9ba0800000000000000
+      internalID: -6080141573051847640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_77
+      rect:
+        serializedVersion: 2
+        x: 6175
+        y: 23
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7f5f149649bbd50800000000000000
+      internalID: 6754155245971306459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_78
+      rect:
+        serializedVersion: 2
+        x: 6271
+        y: 22
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7105c97de51a7f920800000000000000
+      internalID: 3024063103518920727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_79
+      rect:
+        serializedVersion: 2
+        x: 6367
+        y: 21
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d109b8d56ff4d4f0800000000000000
+      internalID: -804737620499693101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_80
+      rect:
+        serializedVersion: 2
+        x: 6463
+        y: 20
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469be7823654d3a60800000000000000
+      internalID: 7655351233783183716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_81
+      rect:
+        serializedVersion: 2
+        x: 6559
+        y: 19
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6132115f18462b0800000000000000
+      internalID: -5592201947732830479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_82
+      rect:
+        serializedVersion: 2
+        x: 6655
+        y: 18
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4153dcb5221b0340800000000000000
+      internalID: 4830974978576044366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_83
+      rect:
+        serializedVersion: 2
+        x: 6751
+        y: 17
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57c47c7d3cc11700800000000000000
+      internalID: 509412797322676061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_84
+      rect:
+        serializedVersion: 2
+        x: 6847
+        y: 16
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2578dcf4340dfd4c0800000000000000
+      internalID: -4260457734948944046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_85
+      rect:
+        serializedVersion: 2
+        x: 6943
+        y: 15
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67204ae996f3ec390800000000000000
+      internalID: -7796224182066085258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_86
+      rect:
+        serializedVersion: 2
+        x: 7039
+        y: 16
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68225d136f14fb4a0800000000000000
+      internalID: -6575464405283822970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_87
+      rect:
+        serializedVersion: 2
+        x: 7135
+        y: 17
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55dd379032a6da400800000000000000
+      internalID: 337042245837643093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_88
+      rect:
+        serializedVersion: 2
+        x: 7231
+        y: 18
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de1c73d000243cb0800000000000000
+      internalID: -4885244507869929771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_89
+      rect:
+        serializedVersion: 2
+        x: 7327
+        y: 19
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487c2de214f846700800000000000000
+      internalID: 532708166057772932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_90
+      rect:
+        serializedVersion: 2
+        x: 7423
+        y: 20
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77bed57bf72c24460800000000000000
+      internalID: 7224550606048717687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_91
+      rect:
+        serializedVersion: 2
+        x: 7519
+        y: 21
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb86ec68c2bbc9c0800000000000000
+      internalID: -3905831677923521537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_92
+      rect:
+        serializedVersion: 2
+        x: 7615
+        y: 22
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a5f4e955af52600800000000000000
+      internalID: 443035384001026636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_93
+      rect:
+        serializedVersion: 2
+        x: 7711
+        y: 23
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf3a19c7be78ee50800000000000000
+      internalID: 6838855361980153775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_94
+      rect:
+        serializedVersion: 2
+        x: 7807
+        y: 24
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a4310bf5bd29fd0800000000000000
+      internalID: -2336564052629435817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Platform Animation-sheet_95
+      rect:
+        serializedVersion: 2
+        x: 7903
+        y: 25
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb2c4c62e782b8d0800000000000000
+      internalID: -2832051809113330689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
