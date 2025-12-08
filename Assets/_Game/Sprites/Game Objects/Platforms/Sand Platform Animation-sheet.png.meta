@@ -381,6 +381,84 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2509,7 +2587,103 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Sand Platform Animation-sheet_0: -6381537413789095254
+      Sand Platform Animation-sheet_1: -7028345701823307343
+      Sand Platform Animation-sheet_10: -6709444131356276534
+      Sand Platform Animation-sheet_11: 333648400970947772
+      Sand Platform Animation-sheet_12: 2559986165827461339
+      Sand Platform Animation-sheet_13: -378499495674825924
+      Sand Platform Animation-sheet_14: -4486967184652319858
+      Sand Platform Animation-sheet_15: 638581099400863689
+      Sand Platform Animation-sheet_16: -6032440715960485363
+      Sand Platform Animation-sheet_17: -5944815983885775873
+      Sand Platform Animation-sheet_18: 6170483857418917560
+      Sand Platform Animation-sheet_19: 7761596854776013335
+      Sand Platform Animation-sheet_2: -1958162510355861938
+      Sand Platform Animation-sheet_20: -1699289262324348008
+      Sand Platform Animation-sheet_21: 765671763030002470
+      Sand Platform Animation-sheet_22: 5673671393313218992
+      Sand Platform Animation-sheet_23: -5992686977908573644
+      Sand Platform Animation-sheet_24: -758995220182802167
+      Sand Platform Animation-sheet_25: 3078403700145715442
+      Sand Platform Animation-sheet_26: -1059105416707377614
+      Sand Platform Animation-sheet_27: 4310678389376614357
+      Sand Platform Animation-sheet_28: 1747905370334445544
+      Sand Platform Animation-sheet_29: -1524703833683661845
+      Sand Platform Animation-sheet_3: 9193894165110513481
+      Sand Platform Animation-sheet_30: -6095450783782231662
+      Sand Platform Animation-sheet_31: -715118069001606193
+      Sand Platform Animation-sheet_32: -6352883619659076396
+      Sand Platform Animation-sheet_33: -1147242555337142583
+      Sand Platform Animation-sheet_34: -5324997691542647904
+      Sand Platform Animation-sheet_35: -1005741221592067058
+      Sand Platform Animation-sheet_36: -7422310339476859948
+      Sand Platform Animation-sheet_37: -6927558883950433059
+      Sand Platform Animation-sheet_38: 8535813457147040103
+      Sand Platform Animation-sheet_39: 3652848368168824650
+      Sand Platform Animation-sheet_4: 4217008871445940230
+      Sand Platform Animation-sheet_40: -5796581740452237210
+      Sand Platform Animation-sheet_41: -3168963701341401757
+      Sand Platform Animation-sheet_42: -932029728066628451
+      Sand Platform Animation-sheet_43: -5129989348452700115
+      Sand Platform Animation-sheet_44: 209636773057364771
+      Sand Platform Animation-sheet_45: 2849115396859977902
+      Sand Platform Animation-sheet_46: -8209969098672898948
+      Sand Platform Animation-sheet_47: 2662267120042378913
+      Sand Platform Animation-sheet_48: 717948409628204855
+      Sand Platform Animation-sheet_49: 7749080481913496018
+      Sand Platform Animation-sheet_5: -6165536743607657643
+      Sand Platform Animation-sheet_50: 3266256792674979820
+      Sand Platform Animation-sheet_51: -3759349212793606096
+      Sand Platform Animation-sheet_52: -4858341373626154810
+      Sand Platform Animation-sheet_53: -4360610411764874625
+      Sand Platform Animation-sheet_54: -4270698287852771533
+      Sand Platform Animation-sheet_55: -4910274098371420907
+      Sand Platform Animation-sheet_56: 6895395990619657462
+      Sand Platform Animation-sheet_57: 2910287571806478757
+      Sand Platform Animation-sheet_58: -8061019852031358344
+      Sand Platform Animation-sheet_59: -5362639246737374877
+      Sand Platform Animation-sheet_6: -9100090668043890688
+      Sand Platform Animation-sheet_60: 6788410353922752364
+      Sand Platform Animation-sheet_61: -2680524610604313927
+      Sand Platform Animation-sheet_62: 6117353089261054134
+      Sand Platform Animation-sheet_63: 2355542913859419669
+      Sand Platform Animation-sheet_64: -8480051865128487560
+      Sand Platform Animation-sheet_65: 8253700092157269840
+      Sand Platform Animation-sheet_66: -8774414555963952900
+      Sand Platform Animation-sheet_67: 3313429019574998373
+      Sand Platform Animation-sheet_68: -9078118379462779201
+      Sand Platform Animation-sheet_69: -8508850386032784915
+      Sand Platform Animation-sheet_7: 4443639342428768268
+      Sand Platform Animation-sheet_70: -919256504390864513
+      Sand Platform Animation-sheet_71: -1846355953394237484
+      Sand Platform Animation-sheet_72: 976037987006710488
+      Sand Platform Animation-sheet_73: -6263534719651820266
+      Sand Platform Animation-sheet_74: 7512816262487719955
+      Sand Platform Animation-sheet_75: 5202345803607078634
+      Sand Platform Animation-sheet_76: -6080141573051847640
+      Sand Platform Animation-sheet_77: 6754155245971306459
+      Sand Platform Animation-sheet_78: 3024063103518920727
+      Sand Platform Animation-sheet_79: -804737620499693101
+      Sand Platform Animation-sheet_8: -2710128920953024405
+      Sand Platform Animation-sheet_80: 7655351233783183716
+      Sand Platform Animation-sheet_81: -5592201947732830479
+      Sand Platform Animation-sheet_82: 4830974978576044366
+      Sand Platform Animation-sheet_83: 509412797322676061
+      Sand Platform Animation-sheet_84: -4260457734948944046
+      Sand Platform Animation-sheet_85: -7796224182066085258
+      Sand Platform Animation-sheet_86: -6575464405283822970
+      Sand Platform Animation-sheet_87: 337042245837643093
+      Sand Platform Animation-sheet_88: -4885244507869929771
+      Sand Platform Animation-sheet_89: 532708166057772932
+      Sand Platform Animation-sheet_9: -3463945852583207646
+      Sand Platform Animation-sheet_90: 7224550606048717687
+      Sand Platform Animation-sheet_91: -3905831677923521537
+      Sand Platform Animation-sheet_92: 443035384001026636
+      Sand Platform Animation-sheet_93: 6838855361980153775
+      Sand Platform Animation-sheet_94: -2336564052629435817
+      Sand Platform Animation-sheet_95: -2832051809113330689
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
