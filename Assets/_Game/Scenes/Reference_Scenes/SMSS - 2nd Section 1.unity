@@ -5456,13 +5456,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2601213771190137187, guid: 3f9456c477f42dd44b8910883ce55d82, type: 3}
+      propertyPath: shotSpeed
+      value: 17.5
+      objectReference: {fileID: 0}
     - target: {fileID: 3929670793057654670, guid: 3f9456c477f42dd44b8910883ce55d82, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 16.638
+      value: 33.712
       objectReference: {fileID: 0}
     - target: {fileID: 3929670793057654670, guid: 3f9456c477f42dd44b8910883ce55d82, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 42.587
+      value: 44.578
       objectReference: {fileID: 0}
     - target: {fileID: 3929670793057654670, guid: 3f9456c477f42dd44b8910883ce55d82, type: 3}
       propertyPath: m_LocalPosition.z
@@ -5574,17 +5578,25 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tentacle Soldier
       objectReference: {fileID: 0}
+    - target: {fileID: 2565866266406719960, guid: 2cb0153076b4c224ea5052014918e49b, type: 3}
+      propertyPath: m_FlipX
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2565866266406719960, guid: 2cb0153076b4c224ea5052014918e49b, type: 3}
+      propertyPath: m_FlipY
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7025105014846772792, guid: 2cb0153076b4c224ea5052014918e49b, type: 3}
       propertyPath: m_CollisionDetection
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 9201865821580285595, guid: 2cb0153076b4c224ea5052014918e49b, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 19.646
+      value: 37.748
       objectReference: {fileID: 0}
     - target: {fileID: 9201865821580285595, guid: 2cb0153076b4c224ea5052014918e49b, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 44.143
+      value: 44.719
       objectReference: {fileID: 0}
     - target: {fileID: 9201865821580285595, guid: 2cb0153076b4c224ea5052014918e49b, type: 3}
       propertyPath: m_LocalPosition.z
@@ -5747,10 +5759,10 @@ SceneRoots:
   - {fileID: 1859020655583562991}
   - {fileID: 699792705}
   - {fileID: 1517497288}
+  - {fileID: 528063543}
   - {fileID: 8361570414773421907}
   - {fileID: 4648637114460017848}
   - {fileID: 875509400}
-  - {fileID: 528063543}
   - {fileID: 7209593307842148909}
   - {fileID: 598873491}
   - {fileID: 1690193392}

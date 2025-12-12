@@ -102628,7 +102628,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   firePoint: {fileID: 670665195}
   ammoType: {fileID: 3466946753360237447, guid: 5530d1f9d441c8949b5f10a29108c2fd, type: 3}
-  shotSpeed: 20
+  shotSpeed: 17.5
   shotCounter: 0
   fireRate: 0.15
 --- !u!1 &1346451422
