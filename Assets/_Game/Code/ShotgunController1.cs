@@ -2,9 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class WeaponController : MonoBehaviour
+public class ShotgunController : MonoBehaviour
 {
-    public Transform firePoint;
+    public Transform[] firePoints;
     public GameObject ammoType;
 
     public float shotSpeed;
@@ -46,9 +46,12 @@ public class WeaponController : MonoBehaviour
                 return +1;
             }
         }
-        GameObject shot = Instantiate(ammoType, firePoint.position, firePoint.rotation);
-        Rigidbody2D shotRB = shot.GetComponent<Rigidbody2D>();
-        shotRB.AddForce(firePoint.right * shotSpeed * playerDir(), ForceMode2D.Impulse);
-        Destroy(shot.gameObject, 1f);
+        foreach (Transform firePoint in firePoints)
+        {
+            GameObject shot = Instantiate(ammoType, firePoint.position, firePoint.rotation);
+            Rigidbody2D shotRB = shot.GetComponent<Rigidbody2D>();
+            shotRB.AddForce(firePoint.right * shotSpeed * playerDir(), ForceMode2D.Impulse);
+            Destroy(shot.gameObject, 1f);
+        }
     }
 }

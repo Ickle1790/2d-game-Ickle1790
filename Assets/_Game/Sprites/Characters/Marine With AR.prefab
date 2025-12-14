@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 5564695698871390647}
   - component: {fileID: 2601213771190137187}
   m_Layer: 6
-  m_Name: Weapon
+  m_Name: Weapon - AR
   m_TagString: Untagged
   m_Icon: {fileID: 2974397684917235467, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -94,6 +94,7 @@ GameObject:
   - component: {fileID: 4417562120068609239}
   - component: {fileID: 5036540962231359599}
   - component: {fileID: 5308073825247153003}
+  - component: {fileID: 464648220599436460}
   - component: {fileID: 2735601036767717399}
   - component: {fileID: 3603432055213936612}
   m_Layer: 6
@@ -260,6 +261,19 @@ MonoBehaviour:
   groundLayer:
     serializedVersion: 2
     m_Bits: 128
+--- !u!114 &464648220599436460
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6042664170895333668}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71aebcc49bfe7dc4ca1aae3d37dc0b6e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  startingHealth: 10
 --- !u!114 &2735601036767717399
 MonoBehaviour:
   m_ObjectHideFlags: 0
