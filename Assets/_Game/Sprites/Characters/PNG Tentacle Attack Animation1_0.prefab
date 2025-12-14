@@ -105,7 +105,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4d94fcb4916fd2741882607f5be4f770, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  damage: 4
+  damage: 2
   playerHealth: {fileID: 0}
 --- !u!70 &2601203038704113105
 CapsuleCollider2D:
