@@ -8,6 +8,7 @@ TagManager:
   - LevelExit
   - DoorA
   - Ground
+  - Weapon
   layers:
   - Default
   - TransparentFX

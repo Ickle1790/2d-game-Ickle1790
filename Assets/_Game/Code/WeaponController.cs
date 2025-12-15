@@ -37,7 +37,7 @@ public class WeaponController : MonoBehaviour
     {
         int playerDir()
         {
-            if (transform.parent.localScale.x < 0f)
+            if (transform.root.localScale.x < 0f)
             {
                 return -1;
             }
