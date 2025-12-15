@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 72e6c6b3446f88b43b84a73a761190e2
+guid: 7d6fce580f5ab9d4e9e22f9e37802dda
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6496248259801957910
-    second: Alien_Bullet2_0
+      213: 4012561471443581752
+    second: PNG Alien Soldier Firing_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -178,13 +178,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Alien_Bullet2_0
+      name: PNG Alien Soldier Firing_0
       rect:
         serializedVersion: 2
-        x: 56
-        y: 57
-        width: 16
-        height: 14
+        x: 6
+        y: 0
+        width: 104
+        height: 120
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -193,8 +193,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 616ce3aaf5f472a50800000000000000
-      internalID: 6496248259801957910
+      spriteID: 83b30d8166b7fa730800000000000000
+      internalID: 4012561471443581752
       vertices: []
       indices: 
       edges: []
