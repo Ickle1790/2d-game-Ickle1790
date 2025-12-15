@@ -11,12 +11,14 @@ public class EnemyMovement : MonoBehaviour
     [SerializeField] private int startDirection = 1;
     private int currentDirection;
     private float halfWidth;
+    private float halfHeight;
     private Vector2 movement;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     private void Start()
     {
         halfWidth = spriteRenderer.bounds.extents.x;
+        halfHeight = spriteRenderer.bounds.extents.y;
         currentDirection = startDirection;
     }
 
@@ -29,16 +31,44 @@ public class EnemyMovement : MonoBehaviour
         SetDirection();
     }
 
+
     private void SetDirection()
     {
-        if (Physics2D.Raycast(transform.position, Vector2.right, halfWidth + 0.1f, LayerMask.GetMask("Ground")) && rigidBody.linearVelocityX > 0)
+        Vector2 rightPos = transform.position;
+        Vector2 leftPos = transform.position;
+        rightPos.x += halfWidth;
+        leftPos.x -= halfWidth;
+
+        if (rigidBody.linearVelocity.x > 0)
         {
-            // Draw a ray starting at the centre of our enemy and point it to the right
-            // Check to see if the raycast is intersecting with a wall
-            // Check to make sure the enemy is walking right
-            // If this doesn't happen, the enemy will be constantly moving back and forth
+            if(Physics2D.Raycast(transform.position, Vector2.right, halfWidth + 0.1f, LayerMask.GetMask("Ground")))
+            {
+                // Draw a ray starting at the centre of our enemy and point it to the right
+                // Check to see if the raycast is intersecting with a wall
+                // Check to make sure the enemy is walking right
+                // If this doesn't happen, the enemy will be constantly moving back and forth
             currentDirection *= -1;
+            spriteRenderer.flipX = false;
+            }
+            else if (!Physics2D.Raycast(rightPos, Vector2.down, halfHeight + 0.1f, LayerMask.GetMask("Ground")))
+            {
+                currentDirection *= -1;
+                spriteRenderer.flipX = false;
+            }
         }
-        Debug.DrawRay(transform.position, Vector2.right * (halfWidth + 0.1f), Color.red);
+
+        else if (rigidBody.linearVelocity.x < 0)
+            {
+                if (Physics2D.Raycast(transform.position, Vector2.left, halfWidth + 0.1f, LayerMask.GetMask("Ground")))
+                {
+                    currentDirection *= -1;
+                    spriteRenderer.flipX = true;
+                }
+                else if (!Physics2D.Raycast(leftPos, Vector2.down, halfHeight + 0.1f, LayerMask.GetMask("Ground")))
+                {
+                    currentDirection *= -1;
+                    spriteRenderer.flipX = true;
+                }
+            }
     }
 }
