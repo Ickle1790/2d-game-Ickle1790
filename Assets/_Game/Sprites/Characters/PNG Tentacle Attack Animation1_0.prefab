@@ -12,11 +12,11 @@ GameObject:
   - component: {fileID: 1672210489929266733}
   - component: {fileID: 7602778650134623142}
   - component: {fileID: 4030614619067855926}
+  - component: {fileID: 3593226361564521337}
   - component: {fileID: 2601203038704113105}
   - component: {fileID: 1004770145979372563}
   - component: {fileID: 4490203379436944552}
   - component: {fileID: 8656213105886477550}
-  - component: {fileID: 3593226361564521337}
   m_Layer: 6
   m_Name: PNG Tentacle Attack Animation1_0
   m_TagString: Enemy
@@ -121,6 +121,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   damage: 2
   playerHealth: {fileID: 0}
+--- !u!114 &3593226361564521337
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2146077262792455713}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b31090a5ebeabb44bc3a2f8116aed82, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 10
 --- !u!70 &2601203038704113105
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -253,16 +266,3 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.07, y: 0.69}
   m_EdgeRadius: 0
---- !u!114 &3593226361564521337
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2146077262792455713}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2b31090a5ebeabb44bc3a2f8116aed82, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  health: 10

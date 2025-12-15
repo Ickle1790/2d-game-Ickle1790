@@ -41,13 +41,13 @@ GameObject:
   m_Component:
   - component: {fileID: 9201865821580285595}
   - component: {fileID: 2565866266406719960}
+  - component: {fileID: 493546106867770919}
   - component: {fileID: 777707596171007458}
   - component: {fileID: 3838686518800049201}
+  - component: {fileID: 8150119704509444797}
   - component: {fileID: 576556048939801634}
   - component: {fileID: 7025105014846772792}
   - component: {fileID: 6736935779857819940}
-  - component: {fileID: 8150119704509444797}
-  - component: {fileID: 493546106867770919}
   m_Layer: 6
   m_Name: Tentacle Soldier
   m_TagString: Enemy
@@ -126,6 +126,22 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &493546106867770919
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2010515487373311627}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15097a004b6af794e83f84713cc56001, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rigidBody: {fileID: 7025105014846772792}
+  spriteRenderer: {fileID: 2565866266406719960}
+  speed: 3
+  startDirection: 1
 --- !u!114 &777707596171007458
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -153,6 +169,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   damage: 2
   playerHealth: {fileID: 0}
+--- !u!114 &8150119704509444797
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2010515487373311627}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b31090a5ebeabb44bc3a2f8116aed82, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 13
 --- !u!70 &576556048939801634
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -239,32 +268,3 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!114 &8150119704509444797
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2010515487373311627}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2b31090a5ebeabb44bc3a2f8116aed82, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  health: 13
---- !u!114 &493546106867770919
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2010515487373311627}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 15097a004b6af794e83f84713cc56001, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  rigidBody: {fileID: 7025105014846772792}
-  spriteRenderer: {fileID: 2565866266406719960}
-  speed: 3
-  startDirection: 1

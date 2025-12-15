@@ -662,7 +662,26 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PNG Death Animation-Sheet_0: 4117002168711681732
+      PNG Death Animation-Sheet_1: 2975117928430093788
+      PNG Death Animation-Sheet_10: -3255812791771718567
+      PNG Death Animation-Sheet_11: -7501059657549839736
+      PNG Death Animation-Sheet_12: -5583208373931850276
+      PNG Death Animation-Sheet_13: -4741289167794715065
+      PNG Death Animation-Sheet_14: 1867021672087129568
+      PNG Death Animation-Sheet_15: -6145454423993168942
+      PNG Death Animation-Sheet_16: -9181882091232590941
+      PNG Death Animation-Sheet_17: -5768033146771718861
+      PNG Death Animation-Sheet_18: 4385182666209307060
+      PNG Death Animation-Sheet_2: 8620349124046063769
+      PNG Death Animation-Sheet_3: 100166166792275076
+      PNG Death Animation-Sheet_4: 2627761011668231121
+      PNG Death Animation-Sheet_5: -6849394163039855906
+      PNG Death Animation-Sheet_6: 450079303565620853
+      PNG Death Animation-Sheet_7: -4899921303597680281
+      PNG Death Animation-Sheet_8: -186240937047224077
+      PNG Death Animation-Sheet_9: 4286284877495563351
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

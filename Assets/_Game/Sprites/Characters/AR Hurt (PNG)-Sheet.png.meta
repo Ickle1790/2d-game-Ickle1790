@@ -362,7 +362,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      AR Hurt (PNG)-Sheet_0: -9027941228954031403
+      AR Hurt (PNG)-Sheet_1: 3095934256339052412
+      AR Hurt (PNG)-Sheet_2: 5788760971887815316
+      AR Hurt (PNG)-Sheet_3: -4380196603751230865
+      AR Hurt (PNG)-Sheet_4: 4755175215599027690
+      AR Hurt (PNG)-Sheet_5: 7114009417580464120
+      AR Hurt (PNG)-Sheet_6: -9035685111328324175
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

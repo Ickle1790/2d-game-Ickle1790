@@ -212,7 +212,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Plasma_Bullet_0: -5222206206247706938
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
