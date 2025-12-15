@@ -102294,6 +102294,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5308073825247153003, guid: 3f9456c477f42dd44b8910883ce55d82, type: 3}
+      propertyPath: jumpForce
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 5308073825247153003, guid: 3f9456c477f42dd44b8910883ce55d82, type: 3}
+      propertyPath: moveSpeed
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 6042664170895333668, guid: 3f9456c477f42dd44b8910883ce55d82, type: 3}
       propertyPath: m_Name
       value: Marine With AR (1)
