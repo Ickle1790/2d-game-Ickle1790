@@ -735,6 +735,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Alien Soldier (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 4450446142556150719, guid: c995978ce979aec4d86032a1e0fe383c, type: 3}
+      propertyPath: speed
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -17488,6 +17492,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Alien Soldier (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 4450446142556150719, guid: c995978ce979aec4d86032a1e0fe383c, type: 3}
+      propertyPath: speed
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -18480,7 +18488,7 @@ GameObject:
   m_Icon: {fileID: 2974397684917235467, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1033075215
 Transform:
   m_ObjectHideFlags: 0
@@ -18516,7 +18524,7 @@ MonoBehaviour:
   - {fileID: 1079647122}
   - {fileID: 2145363732}
   ammoType: {fileID: 2692255605866759220, guid: c5e80b8cc81cd2045bef121c6fc80f11, type: 3}
-  shotSpeed: 15
+  shotSpeed: 10
   shotCounter: 0
   fireRate: 0.5
 --- !u!1 &1079647121
@@ -23316,7 +23324,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 395747436429816390, guid: 3f9456c477f42dd44b8910883ce55d82, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2601213771190137187, guid: 3f9456c477f42dd44b8910883ce55d82, type: 3}
       propertyPath: shotSpeed
@@ -23324,11 +23332,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3929670793057654670, guid: 3f9456c477f42dd44b8910883ce55d82, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 36.77
+      value: 34.02
       objectReference: {fileID: 0}
     - target: {fileID: 3929670793057654670, guid: 3f9456c477f42dd44b8910883ce55d82, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 44.71
+      value: 44.33
       objectReference: {fileID: 0}
     - target: {fileID: 3929670793057654670, guid: 3f9456c477f42dd44b8910883ce55d82, type: 3}
       propertyPath: m_LocalPosition.z
@@ -23678,6 +23686,22 @@ PrefabInstance:
     - target: {fileID: 2951329727288442947, guid: c995978ce979aec4d86032a1e0fe383c, type: 3}
       propertyPath: m_Name
       value: Alien Soldier
+      objectReference: {fileID: 0}
+    - target: {fileID: 4450446142556150719, guid: c995978ce979aec4d86032a1e0fe383c, type: 3}
+      propertyPath: speed
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4450446142556150719, guid: c995978ce979aec4d86032a1e0fe383c, type: 3}
+      propertyPath: startDirection
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6996048077954886652, guid: c995978ce979aec4d86032a1e0fe383c, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7679583724955595995, guid: c995978ce979aec4d86032a1e0fe383c, type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

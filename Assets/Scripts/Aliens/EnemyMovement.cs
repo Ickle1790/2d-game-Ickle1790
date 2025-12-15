@@ -31,7 +31,7 @@ public class EnemyMovement : MonoBehaviour
 
     private void SetDirection()
     {
-        if (Physics2D.Raycast(transform.position, Vector2.right, halfWidth + 0.1f, LayerMask.GetMask("Ground")) && rigidBody.linearVelocityX > 0);
+        if (Physics2D.Raycast(transform.position, Vector2.right, halfWidth + 0.1f, LayerMask.GetMask("Ground")) && rigidBody.linearVelocityX > 0)
         {
             // Draw a ray starting at the centre of our enemy and point it to the right
             // Check to see if the raycast is intersecting with a wall
