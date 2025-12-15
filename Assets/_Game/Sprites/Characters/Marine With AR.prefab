@@ -47,7 +47,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   firePoint: {fileID: 9174606995305433491}
   ammoType: {fileID: 3466946753360237447, guid: 5530d1f9d441c8949b5f10a29108c2fd, type: 3}
-  shotSpeed: 20
+  shotSpeed: 17.5
   shotCounter: 0
   fireRate: 0.15
 --- !u!1 &2572887974145709075
@@ -97,6 +97,7 @@ GameObject:
   - component: {fileID: 464648220599436460}
   - component: {fileID: 2735601036767717399}
   - component: {fileID: 3603432055213936612}
+  - component: {fileID: 890816325381429053}
   m_Layer: 6
   m_Name: Marine With AR
   m_TagString: Player
@@ -310,6 +311,18 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &890816325381429053
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6042664170895333668}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a160c3c0f59ab9849a9e9f9e8abbddd3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &6077654244521839257
 GameObject:
   m_ObjectHideFlags: 0

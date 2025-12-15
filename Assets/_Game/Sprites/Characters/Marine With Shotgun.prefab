@@ -196,6 +196,7 @@ GameObject:
   - component: {fileID: 1467236285156873243}
   - component: {fileID: 238245468074233468}
   - component: {fileID: 6672630176040554574}
+  - component: {fileID: 4986209606963852333}
   m_Layer: 6
   m_Name: Marine With Shotgun
   m_TagString: Player
@@ -425,6 +426,18 @@ MonoBehaviour:
   playerHealth: {fileID: 929055124325074373}
   totalhealthBar: {fileID: 0}
   currenthealthBar: {fileID: 0}
+--- !u!114 &4986209606963852333
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6954322431378484828}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a160c3c0f59ab9849a9e9f9e8abbddd3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &7766599257230961091
 GameObject:
   m_ObjectHideFlags: 0
