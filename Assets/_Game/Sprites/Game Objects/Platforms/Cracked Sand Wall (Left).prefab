@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 6740042416597345767}
   - component: {fileID: 4226834724046194662}
   - component: {fileID: 71042015288161377}
+  - component: {fileID: 5146925960934651271}
   m_Layer: 6
   m_Name: Cracked Sand Wall (Left)
   m_TagString: Enemy
@@ -176,3 +177,40 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.07, y: 0.69}
   m_EdgeRadius: 0
+--- !u!70 &5146925960934651271
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8270887241854164525}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_Size: {x: 1, y: 1}
+  m_Direction: 0
