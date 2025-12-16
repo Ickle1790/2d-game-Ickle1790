@@ -10,6 +10,7 @@ public class WeaponPickup : MonoBehaviour
     {
         if (other.gameObject.tag == "Player")
         {
+            // Giving the player the new weapon upon contact
             other.gameObject.GetComponent<WeaponSwap>().UpdateWeapon(weaponToGive);
             Destroy(GameObject.FindGameObjectWithTag("Weapon"));
         }

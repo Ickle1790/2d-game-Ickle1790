@@ -14,6 +14,7 @@ public class BigEnemyBulletScript : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         player = GameObject.FindGameObjectWithTag("Player");
 
+        // Sending the bullet towards the player
         Vector3 direction = player.transform.position - transform.position;
         rb.linearVelocity = new Vector2(direction.x, direction.y).normalized * force;
 
@@ -34,6 +35,7 @@ public class BigEnemyBulletScript : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D other)
     {
+        // Having the bullet damage the player on contact
         if(other.gameObject.CompareTag("Player"))
         {
             other.gameObject.GetComponent<Health>().currentHealth -=3;

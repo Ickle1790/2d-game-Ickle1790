@@ -15,14 +15,15 @@ public class Health : MonoBehaviour
         anim = GetComponent<Animator>();
     }
 
+    // Reduces HP based on damage number in the enemy's inspector tab
     public void TakeDamage(float _damage)
     {
         currentHealth = Mathf.Clamp(currentHealth - _damage, 0, startingHealth);
 
         if (currentHealth > 0)
         {
+            // Injure animation plays
             anim.SetTrigger("hurt");
-            //iframes
         }
         else
         {
@@ -40,6 +41,7 @@ public class Health : MonoBehaviour
         currentHealth = Mathf.Clamp(currentHealth + _value, 0, startingHealth);
     }
 
+    // This is to practice the injure animation and healthbar mechanics
     private void Update()
     {
         if(Input.GetKeyDown(KeyCode.K))

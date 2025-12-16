@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class EnemyShooting : MonoBehaviour
+public class BigEnemyShooting : MonoBehaviour
 {
     public GameObject bullet;
     public Transform bulletPos;
@@ -23,7 +23,7 @@ public class EnemyShooting : MonoBehaviour
         float distance = Vector2.Distance(transform.position, player.transform.position);
         Debug.Log(distance);
 
-        if(distance < 5)
+        if(distance < 7)
         {
             // Having the enemy shoot at the player every 2 seconds if they are within range
             timer += Time.deltaTime;

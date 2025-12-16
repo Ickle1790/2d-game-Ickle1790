@@ -11,11 +11,13 @@ public class Healthbar : MonoBehaviour
 
     private void Start()
     {
+        // Setting the healthbar values based on the player's health
         totalhealthBar.fillAmount = playerHealth.currentHealth / 10;
     }
 
     private void Update()
     {
+        // Updating the healthbar to reflect current health
         currenthealthBar.fillAmount = playerHealth.currentHealth / 10;
     }
 }

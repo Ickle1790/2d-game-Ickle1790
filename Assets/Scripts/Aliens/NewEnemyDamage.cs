@@ -10,6 +10,7 @@ public class NewEnemyDamage : MonoBehaviour
     {
         if(collision.tag == "Player")
         {
+            // Damages player on physical contact
             collision.GetComponent<Health>().TakeDamage(damage);
         }
     }

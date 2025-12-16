@@ -15,6 +15,7 @@ public class EnemyHealth : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        // Destroying the enemy if health is 0 or below
         if (currentHealth <= 0)
         {
             Destroy(gameObject);
@@ -23,6 +24,7 @@ public class EnemyHealth : MonoBehaviour
 
     public void damageEnemy(int damage)
     {
+        // Reducing current health by damage amount
         currentHealth -= damage;
     }
 }

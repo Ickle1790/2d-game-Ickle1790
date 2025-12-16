@@ -11,6 +11,7 @@ public class WeaponSwap : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        // Creating the starting weapon (Assault Rifle)
         var weapon = Instantiate(activeWeapon, weaponSlot.transform.position, weaponSlot.transform.rotation);
         weapon.transform.parent = weaponSlot.transform;
     }
@@ -18,6 +19,7 @@ public class WeaponSwap : MonoBehaviour
     // Update is called once per frame
     public void UpdateWeapon(GameObject newWeapon)
     {
+        // Swapping out the current weapon for a new one
         activeWeapon = newWeapon;
 
         var weapon = Instantiate(activeWeapon, weaponSlot.transform.position, weaponSlot.transform.rotation);

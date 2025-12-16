@@ -21,7 +21,7 @@ public class Level_Loader : MonoBehaviour
     {
         if (other.tag == "LevelExit")
         {
-           // SceneManager.LoadScene(1)
+           // Loads the next scene upon contact
            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
         }
     }

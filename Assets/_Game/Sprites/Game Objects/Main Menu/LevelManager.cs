@@ -20,6 +20,7 @@ public class LevelManager : MonoBehaviour
 
     public void changeScene()
     {
+        // Changes scene when clicked
         SceneManager.LoadScene(sceneName);
     }
 }

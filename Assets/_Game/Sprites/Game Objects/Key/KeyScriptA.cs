@@ -10,6 +10,7 @@ public class KeyScriptA : MonoBehaviour
     {
         if(col.CompareTag("Player"))
         {
+            // If Key is picked up, delete the door and key assets
             Debug.Log("key picked up");
 
             DoorA.GetComponent<BoxCollider2D>().enabled = false;

@@ -10,6 +10,7 @@ public class MovingPlatformScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        // Move betwen start and end points of the platform parent object
        if (transform.position != locations[locationIndex].position)
        {
         transform.position = Vector3.MoveTowards(transform.position, locations[locationIndex].position, 2 * Time.deltaTime);

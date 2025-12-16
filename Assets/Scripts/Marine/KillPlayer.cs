@@ -20,6 +20,7 @@ public class KillPlayer : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D other)
     {
+        // Sends player to the start of the level if they touch something that kills them
         if (other.gameObject.CompareTag("Player"))
         {
             player.transform.position = respawnPoint.position;

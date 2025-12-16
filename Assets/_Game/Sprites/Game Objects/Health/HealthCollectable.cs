@@ -10,6 +10,7 @@ public class HealthCollectable : MonoBehaviour
    {
     if(collision.tag == "Player")
     {
+        // Gives health and then deletes the heart asset
         collision.GetComponent<Health>().AddHealth(healthValue);
         gameObject.SetActive(false);
     }
