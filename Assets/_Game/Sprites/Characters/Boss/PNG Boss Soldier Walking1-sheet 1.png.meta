@@ -337,7 +337,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PNG Boss Soldier Walking1-sheet 1_0: 8589925107441767057
+      PNG Boss Soldier Walking1-sheet 1_1: -2001174889400952774
+      PNG Boss Soldier Walking1-sheet 1_2: 8797473733585187734
+      PNG Boss Soldier Walking1-sheet 1_3: -3291701100712362606
+      PNG Boss Soldier Walking1-sheet 1_4: -37655090706542811
+      PNG Boss Soldier Walking1-sheet 1_5: -4219364418493949312
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

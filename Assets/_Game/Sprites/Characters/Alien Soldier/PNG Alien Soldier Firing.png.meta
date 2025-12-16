@@ -212,7 +212,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PNG Alien Soldier Firing_0: 4012561471443581752
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
